@@ -1,0 +1,12 @@
+body {
+  background-image: url(Assets/Images/basket.avif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: none;
+  max-width: auto;
+  max-height: auto;
+}
+
+p {
+  font-size: larger;
+}
